@@ -1,0 +1,19 @@
+{
+  "id": "29066",
+  "name": "FAROUT BEACH CLUB",
+  "location": [
+    484,
+    339
+  ],
+  "bonus": [
+    "33% faster recruitment in the Barracks",
+    "bonus/barracks.png"
+  ],
+  "points": 1639,
+  "safe": false,
+  "scout": false,
+  "tribe": "43",
+  "owner": "849234488",
+  "buildings": {},
+  "resources": {}
+}

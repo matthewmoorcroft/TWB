@@ -1,0 +1,16 @@
+{
+  "id": "35961",
+  "name": "Zanim's village",
+  "location": [
+    460,
+    321
+  ],
+  "bonus": null,
+  "points": 26,
+  "safe": false,
+  "scout": false,
+  "tribe": "0",
+  "owner": "11581755",
+  "buildings": {},
+  "resources": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "30491",
+  "name": "Bonus village",
+  "location": [
+    477,
+    335
+  ],
+  "bonus": [
+    "100% higher clay production",
+    "bonus/stone.png"
+  ],
+  "points": 148,
+  "safe": false,
+  "scout": false,
+  "tribe": "675",
+  "owner": "849169829",
+  "buildings": {},
+  "resources": {}
+}

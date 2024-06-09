@@ -1,0 +1,16 @@
+{
+  "id": "29444",
+  "name": "Village",
+  "location": [
+    482,
+    335
+  ],
+  "bonus": null,
+  "points": 2007,
+  "safe": false,
+  "scout": false,
+  "tribe": "389",
+  "owner": "11506580",
+  "buildings": {},
+  "resources": {}
+}

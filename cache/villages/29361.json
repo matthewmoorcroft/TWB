@@ -1,0 +1,19 @@
+{
+  "id": "29361",
+  "name": 0,
+  "location": [
+    460,
+    338
+  ],
+  "bonus": [
+    "33% faster recruitment in the Barracks",
+    "bonus/barracks.png"
+  ],
+  "points": 93,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

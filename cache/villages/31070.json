@@ -1,0 +1,19 @@
+{
+  "id": "31070",
+  "name": 0,
+  "location": [
+    478,
+    332
+  ],
+  "bonus": [
+    "50% faster recruitment in the Workshop",
+    "bonus/garage.png"
+  ],
+  "points": 72,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

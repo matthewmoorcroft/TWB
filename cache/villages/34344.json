@@ -1,0 +1,19 @@
+{
+  "id": "34344",
+  "name": "Rim Village 06",
+  "location": [
+    498,
+    325
+  ],
+  "bonus": [
+    "30% more resources are produced (all resource types)",
+    "bonus/all.png"
+  ],
+  "points": 943,
+  "safe": false,
+  "scout": false,
+  "tribe": "43",
+  "owner": "11363672",
+  "buildings": {},
+  "resources": {}
+}

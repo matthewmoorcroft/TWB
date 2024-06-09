@@ -1,0 +1,19 @@
+{
+  "id": "29014",
+  "name": "SPACE PLUS",
+  "location": [
+    474,
+    339
+  ],
+  "bonus": [
+    "10% more population",
+    "bonus/farm.png"
+  ],
+  "points": 1465,
+  "safe": false,
+  "scout": false,
+  "tribe": "43",
+  "owner": "849234488",
+  "buildings": {},
+  "resources": {}
+}

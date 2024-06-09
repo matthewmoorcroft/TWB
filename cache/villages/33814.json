@@ -1,0 +1,19 @@
+{
+  "id": "33814",
+  "name": 0,
+  "location": [
+    482,
+    322
+  ],
+  "bonus": [
+    "10% more population",
+    "bonus/farm.png"
+  ],
+  "points": 80,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

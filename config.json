@@ -1,0 +1,121 @@
+{
+  "build": {
+    "name": "tw_bot",
+    "version": "2.1",
+    "author": "stefan2200"
+  },
+  "server": {
+    "server": "en140",
+    "endpoint": "https://en140.tribalwars.net/game.php",
+    "server_on_twstats": true
+  },
+  "reporting": {
+    "enabled": true,
+    "connection_string": "file://cache/logs/twb_{ts}.log"
+  },
+  "notifications": {
+    "enabled": false,
+    "channel_id": "-1002235561872",
+    "token": "7310691813:AAFHBBtNy81RkWjE7DwsyicIPw588ELIuug"
+  },
+  "bot": {
+    "active_hours": "6-23",
+    "delay_factor": 1.0,
+    "active_delay": 200,
+    "inactive_still_active": true,
+    "inactive_delay": 2000,
+    "add_new_villages": true,
+    "village_name_template": "{num} - SE",
+    "village_name_number_length": 3,
+    "auto_set_village_names": true,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "check_update": true
+  },
+  "building": {
+    "manage_buildings": true,
+    "default": "purple_predator",
+    "max_lookahead": 2,
+    "max_queued_items": 2
+  },
+  "units": {
+    "recruit": true,
+    "upgrade": false,
+    "default": "basic",
+    "batch_size": 25,
+    "manage_defence": false,
+    "remove_manual_queued": false,
+    "randomize_unit_queue": true
+  },
+  "village_template": {
+    "building": "",
+    "units": "basic",
+    "managed": true,
+    "scout_first": false,
+    "additional_farms": [],
+    "prioritize_building": false,
+    "prioritize_snob": false,
+    "trade_for_premium": false,
+    "gather_enabled": true,
+    "gather_selection": 1,
+    "advanced_gather": true,
+    "snobs": 0,
+    "evacuate_fragile_units_on_attack": false,
+    "support_others": false,
+    "support_others_factor": 0.25,
+    "support_others_max_villages": 2,
+    "request_support_on_attack": false
+  },
+  "farms": {
+    "farm": true,
+    "min_points": 0,
+    "max_points": 150,
+    "find_player_owned": false,
+    "search_radius": 100,
+    "default_away_time": 3600,
+    "full_loot_away_time": 1800,
+    "low_loot_away_time": 7200,
+    "max_farms": 150,
+    "attack_higher_points": false,
+    "force_scout_if_available": false,
+    "forced_peace_times": [],
+    "farm_scout_amount": 5
+  },
+  "market": {
+    "auto_trade": true,
+    "max_trade_duration": 5,
+    "auto_remove": true,
+    "trade_multiplier": true,
+    "trade_multiplier_value": 1.0,
+    "trade_max_per_hour": 5
+  },
+  "world": {
+    "knight_enabled": true,
+    "flags_enabled": true,
+    "quests_enabled": true,
+    "trade_for_premium": false,
+    "archers_enabled": true,
+    "building_destruction_enabled": true,
+    "boosters_enabled": true
+  },
+  "villages": {
+    "35004": {
+      "building": "purple_predator_into_off",
+      "units": "basic_into_off",
+      "managed": true,
+      "scout_first": true,
+      "additional_farms": [],
+      "prioritize_building": false,
+      "prioritize_snob": false,
+      "trade_for_premium": false,
+      "gather_enabled": true,
+      "gather_selection": 3,
+      "advanced_gather": true,
+      "snobs": 0,
+      "evacuate_fragile_units_on_attack": false,
+      "support_others": false,
+      "support_others_factor": 0.25,
+      "support_others_max_villages": 2,
+      "request_support_on_attack": false
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "35002",
+  "name": "Lord Currahee's village",
+  "location": [
+    460,
+    325
+  ],
+  "bonus": null,
+  "points": 1160,
+  "safe": false,
+  "scout": false,
+  "tribe": "0",
+  "owner": "10034650",
+  "buildings": {},
+  "resources": {}
+}

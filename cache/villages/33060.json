@@ -1,0 +1,16 @@
+{
+  "id": "33060",
+  "name": "Zeus's village",
+  "location": [
+    496,
+    324
+  ],
+  "bonus": null,
+  "points": 614,
+  "safe": false,
+  "scout": false,
+  "tribe": "0",
+  "owner": "849233039",
+  "buildings": {},
+  "resources": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "31300",
+  "name": "Bonus village",
+  "location": [
+    475,
+    333
+  ],
+  "bonus": [
+    "10% more population",
+    "bonus/farm.png"
+  ],
+  "points": 461,
+  "safe": false,
+  "scout": false,
+  "tribe": "675",
+  "owner": "11259077",
+  "buildings": {},
+  "resources": {}
+}

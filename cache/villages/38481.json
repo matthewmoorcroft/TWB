@@ -1,0 +1,16 @@
+{
+  "id": "38481",
+  "name": "Lordaeron",
+  "location": [
+    498,
+    312
+  ],
+  "bonus": null,
+  "points": 278,
+  "safe": false,
+  "scout": false,
+  "tribe": "844",
+  "owner": "849241905",
+  "buildings": {},
+  "resources": {}
+}

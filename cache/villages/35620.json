@@ -1,0 +1,16 @@
+{
+  "id": "35620",
+  "name": "Cavite",
+  "location": [
+    480,
+    320
+  ],
+  "bonus": null,
+  "points": 667,
+  "safe": false,
+  "scout": false,
+  "tribe": "0",
+  "owner": "849217358",
+  "buildings": {},
+  "resources": {}
+}

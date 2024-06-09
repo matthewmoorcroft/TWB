@@ -1,0 +1,19 @@
+{
+  "id": "29136",
+  "name": "D-EDGE",
+  "location": [
+    471,
+    339
+  ],
+  "bonus": [
+    "50% more storage capacity and merchants",
+    "bonus/storage.png"
+  ],
+  "points": 1651,
+  "safe": false,
+  "scout": false,
+  "tribe": "43",
+  "owner": "849234488",
+  "buildings": {},
+  "resources": {}
+}

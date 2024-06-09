@@ -1,0 +1,19 @@
+{
+  "id": "32570",
+  "name": "AVALON HOLLYWOOD",
+  "location": [
+    482,
+    332
+  ],
+  "bonus": [
+    "30% more resources are produced (all resource types)",
+    "bonus/all.png"
+  ],
+  "points": 2670,
+  "safe": false,
+  "scout": false,
+  "tribe": "43",
+  "owner": "849234488",
+  "buildings": {},
+  "resources": {}
+}

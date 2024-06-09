@@ -1,0 +1,19 @@
+{
+  "id": "37219",
+  "name": 0,
+  "location": [
+    485,
+    315
+  ],
+  "bonus": [
+    "100% higher clay production",
+    "bonus/stone.png"
+  ],
+  "points": 47,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

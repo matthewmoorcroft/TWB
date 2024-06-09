@@ -1,0 +1,37 @@
+{
+  "type": "attack",
+  "origin": "35004",
+  "dest": "34729",
+  "losses": {},
+  "extra": {
+    "units_sent": {
+      "spear": 224,
+      "axe": 189,
+      "spy": 7,
+      "light": 60,
+      "knight": 1
+    },
+    "units_losses": {
+      "spear": 19,
+      "axe": 16,
+      "spy": 7,
+      "light": 6
+    },
+    "defence_units": {
+      "spear": 63,
+      "sword": 35,
+      "spy": 10,
+      "knight": 1
+    },
+    "defence_losses": {
+      "spear": 63,
+      "sword": 35,
+      "spy": 10,
+      "knight": 1
+    },
+    "loot": {
+      "wood": "1763",
+      "iron": "2654"
+    }
+  }
+}

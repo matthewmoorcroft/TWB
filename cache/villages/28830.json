@@ -1,0 +1,19 @@
+{
+  "id": "28830",
+  "name": 0,
+  "location": [
+    490,
+    335
+  ],
+  "bonus": [
+    "100% higher iron production",
+    "bonus/iron.png"
+  ],
+  "points": 137,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

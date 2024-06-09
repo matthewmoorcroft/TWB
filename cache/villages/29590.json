@@ -1,0 +1,19 @@
+{
+  "id": "29590",
+  "name": "Canada",
+  "location": [
+    498,
+    334
+  ],
+  "bonus": [
+    "30% more resources are produced (all resource types)",
+    "bonus/all.png"
+  ],
+  "points": 1242,
+  "safe": false,
+  "scout": false,
+  "tribe": "844",
+  "owner": "9846579",
+  "buildings": {},
+  "resources": {}
+}

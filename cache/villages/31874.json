@@ -1,0 +1,19 @@
+{
+  "id": "31874",
+  "name": "Rim Village 08",
+  "location": [
+    496,
+    327
+  ],
+  "bonus": [
+    "33% faster recruitment in the Stable",
+    "bonus/stable.png"
+  ],
+  "points": 740,
+  "safe": false,
+  "scout": false,
+  "tribe": "43",
+  "owner": "11363672",
+  "buildings": {},
+  "resources": {}
+}

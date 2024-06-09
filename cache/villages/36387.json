@@ -1,0 +1,16 @@
+{
+  "id": "36387",
+  "name": "Blaine's village",
+  "location": [
+    499,
+    317
+  ],
+  "bonus": null,
+  "points": 26,
+  "safe": false,
+  "scout": false,
+  "tribe": "0",
+  "owner": "11349393",
+  "buildings": {},
+  "resources": {}
+}

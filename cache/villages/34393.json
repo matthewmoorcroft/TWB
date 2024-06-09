@@ -1,0 +1,16 @@
+{
+  "id": "34393",
+  "name": "Thunderdome",
+  "location": [
+    490,
+    322
+  ],
+  "bonus": null,
+  "points": 171,
+  "safe": false,
+  "scout": false,
+  "tribe": "0",
+  "owner": "849030929",
+  "buildings": {},
+  "resources": {}
+}
