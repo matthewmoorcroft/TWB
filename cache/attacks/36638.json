@@ -2,6 +2,6 @@
   "scout": true,
   "safe": true,
   "high_profile": false,
-  "low_profile": false,
-  "last_attack": 1717902919
+  "low_profile": true,
+  "last_attack": 1717961364
 }

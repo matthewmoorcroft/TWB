@@ -1,6 +1,6 @@
 {
   "id": "33183",
-  "name": 0,
+  "name": "REX CLUB",
   "location": [
     474,
     331
@@ -9,11 +9,11 @@
     "33% faster recruitment in the Stable",
     "bonus/stable.png"
   ],
-  "points": 80,
+  "points": 118,
   "safe": false,
   "scout": false,
-  "tribe": null,
-  "owner": "0",
+  "tribe": "43",
+  "owner": "849234488",
   "buildings": {},
   "resources": {}
 }

@@ -1,0 +1,19 @@
+{
+  "id": "39573",
+  "name": 0,
+  "location": [
+    493,
+    314
+  ],
+  "bonus": [
+    "100% higher wood production",
+    "bonus/wood.png"
+  ],
+  "points": 32,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

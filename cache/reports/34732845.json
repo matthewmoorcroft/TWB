@@ -1,0 +1,31 @@
+{
+  "type": "attack",
+  "origin": "35004",
+  "dest": "33114",
+  "losses": {},
+  "extra": {
+    "units_sent": {
+      "spy": 5,
+      "light": 35
+    },
+    "units_losses": {},
+    "defence_units": {},
+    "defence_losses": {},
+    "loot": {
+      "wood": "850",
+      "stone": "850",
+      "iron": "223"
+    },
+    "buildings": {
+      "main": 4,
+      "place": 1,
+      "wood": 1,
+      "stone": 1,
+      "farm": 1,
+      "storage": 1,
+      "hide": 1
+    },
+    "resources": {},
+    "units_away": {}
+  }
+}
