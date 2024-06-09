@@ -81,6 +81,7 @@ class Map:
         """
         Old method of parsing the map, might work, might not, who knows
         """
+        
         if self.map_data:
             for tile in self.map_data:
                 data = tile["data"]
