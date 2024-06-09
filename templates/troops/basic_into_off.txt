@@ -107,7 +107,7 @@
     "build": {
       "barracks": {
         "spear": 250,
-        "axe": 100,
+        "axe": 400,
         "sword": 100
       },
       "stable": {
