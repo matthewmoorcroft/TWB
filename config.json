@@ -68,7 +68,7 @@
   "farms": {
     "farm": false,
     "min_points": 0,
-    "max_points": 150,
+    "max_points": 100,
     "find_player_owned": false,
     "search_radius": 100,
     "default_away_time": 3600,
