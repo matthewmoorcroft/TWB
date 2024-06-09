@@ -111,8 +111,8 @@
         "sword": 100
       },
       "stable": {
-        "spy": 25,
-        "light": 100
+        "spy": 150,
+        "light": 250
       }
     },
     "farm": [
@@ -135,7 +135,7 @@
       },
       "stable": {
         "spy": 150,
-        "light": 250
+        "light": 500
       },
       "garage": {
         "ram": 15
@@ -158,12 +158,12 @@
     "build": {
      "barracks": {
         "spear": 250,
-        "axe": 750,
+        "axe": 2000,
         "sword": 100
       },
       "stable": {
-        "spy": 150,
-        "light": 250
+        "spy": 200,
+        "light": 1000
       },
       "garage": {
         "ram": 15,
