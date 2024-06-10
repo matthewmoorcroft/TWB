@@ -142,8 +142,7 @@
       }
     },
     "farm": [
-        {"light": 5, "spy": 1},
-        {% comment %} {"axe": 25, "spy": 1} {% endcomment %}
+        {"light": 5, "spy": 1}
     ]
   },
   {
@@ -171,8 +170,7 @@
       }
     },
     "farm": [
-        {"light": 5, "spy": 1},
-        {% comment %} {"axe": 50, "spy": 1} {% endcomment %}
+        {"light": 5, "spy": 1}
     ]
   },
   {
@@ -204,7 +202,6 @@
       }
     },
     "farm": [
-        {% comment %} {"axe": 125, "spy": 1}, {% endcomment %}
         {"light": 25, "spy": 1}
     ]
   }
