@@ -42,7 +42,7 @@ class Village:
     current_unit_entry = None
     forced_peace = False
     forced_peace_today_start = None
-    disabled_units = []
+    disabled_units = ["axe", "heavy", "light"] #added temporarily
 
     twp = TwStats()
 
