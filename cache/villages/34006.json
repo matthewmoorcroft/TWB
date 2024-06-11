@@ -1,6 +1,6 @@
 {
   "id": "34006",
-  "name": 0,
+  "name": "CE LA VI",
   "location": [
     477,
     321
@@ -9,11 +9,11 @@
     "100% higher iron production",
     "bonus/iron.png"
   ],
-  "points": 59,
+  "points": 116,
   "safe": false,
   "scout": false,
-  "tribe": null,
-  "owner": "0",
+  "tribe": "43",
+  "owner": "849234488",
   "buildings": {},
   "resources": {}
 }

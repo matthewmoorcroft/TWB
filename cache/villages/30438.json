@@ -1,6 +1,6 @@
 {
   "id": "30438",
-  "name": 0,
+  "name": "EXE CLUB",
   "location": [
     461,
     333
@@ -9,11 +9,11 @@
     "10% more population",
     "bonus/farm.png"
   ],
-  "points": 130,
+  "points": 266,
   "safe": false,
   "scout": false,
-  "tribe": null,
-  "owner": "0",
+  "tribe": "43",
+  "owner": "849234488",
   "buildings": {},
   "resources": {}
 }

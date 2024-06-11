@@ -1,16 +1,16 @@
 {
   "id": "29267",
-  "name": "G-za's village",
+  "name": 0,
   "location": [
     493,
     337
   ],
   "bonus": null,
-  "points": 48,
+  "points": 51,
   "safe": false,
   "scout": false,
-  "tribe": "0",
-  "owner": "849239558",
+  "tribe": null,
+  "owner": "0",
   "buildings": {},
   "resources": {}
 }

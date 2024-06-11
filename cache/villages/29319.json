@@ -1,16 +1,16 @@
 {
   "id": "29319",
-  "name": "Epa72's village",
+  "name": 0,
   "location": [
     493,
     336
   ],
   "bonus": null,
-  "points": 52,
+  "points": 69,
   "safe": false,
   "scout": false,
-  "tribe": "0",
-  "owner": "849239572",
+  "tribe": null,
+  "owner": "0",
   "buildings": {},
   "resources": {}
 }

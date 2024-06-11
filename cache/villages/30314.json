@@ -1,16 +1,16 @@
 {
   "id": "30314",
-  "name": "crumora's village",
+  "name": 0,
   "location": [
     473,
     334
   ],
   "bonus": null,
-  "points": 26,
+  "points": 27,
   "safe": false,
   "scout": false,
-  "tribe": "0",
-  "owner": "849239827",
+  "tribe": null,
+  "owner": "0",
   "buildings": {},
   "resources": {}
 }

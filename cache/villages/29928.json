@@ -1,16 +1,16 @@
 {
   "id": "29928",
-  "name": "sak123's village",
+  "name": 0,
   "location": [
     486,
     332
   ],
   "bonus": null,
-  "points": 58,
+  "points": 60,
   "safe": false,
   "scout": false,
-  "tribe": "0",
-  "owner": "849239725",
+  "tribe": null,
+  "owner": "0",
   "buildings": {},
   "resources": {}
 }

@@ -1,0 +1,19 @@
+{
+  "id": "40302",
+  "name": 0,
+  "location": [
+    494,
+    307
+  ],
+  "bonus": [
+    "33% faster recruitment in the Stable",
+    "bonus/stable.png"
+  ],
+  "points": 40,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

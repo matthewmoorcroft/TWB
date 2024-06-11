@@ -1,0 +1,19 @@
+{
+  "id": "40426",
+  "name": 0,
+  "location": [
+    461,
+    311
+  ],
+  "bonus": [
+    "50% more storage capacity and merchants",
+    "bonus/storage.png"
+  ],
+  "points": 27,
+  "safe": false,
+  "scout": false,
+  "tribe": null,
+  "owner": "0",
+  "buildings": {},
+  "resources": {}
+}

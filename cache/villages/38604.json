@@ -1,6 +1,6 @@
 {
   "id": "38604",
-  "name": 0,
+  "name": "INDEX",
   "location": [
     467,
     317
@@ -9,11 +9,11 @@
     "33% faster recruitment in the Stable",
     "bonus/stable.png"
   ],
-  "points": 39,
+  "points": 186,
   "safe": false,
   "scout": false,
-  "tribe": null,
-  "owner": "0",
+  "tribe": "43",
+  "owner": "849234488",
   "buildings": {},
   "resources": {}
 }

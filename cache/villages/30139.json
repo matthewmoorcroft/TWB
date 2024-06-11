@@ -1,16 +1,16 @@
 {
   "id": "30139",
-  "name": "TechOperator",
+  "name": 0,
   "location": [
     499,
     334
   ],
   "bonus": null,
-  "points": 116,
+  "points": 126,
   "safe": false,
   "scout": false,
-  "tribe": "862",
-  "owner": "849239780",
+  "tribe": null,
+  "owner": "0",
   "buildings": {},
   "resources": {}
 }

@@ -1,16 +1,16 @@
 {
   "id": "28835",
-  "name": "dhari's village",
+  "name": 0,
   "location": [
     473,
     337
   ],
   "bonus": null,
-  "points": 112,
+  "points": 114,
   "safe": false,
   "scout": false,
-  "tribe": "0",
-  "owner": "849239460",
+  "tribe": null,
+  "owner": "0",
   "buildings": {},
   "resources": {}
 }

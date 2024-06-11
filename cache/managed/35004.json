@@ -8,7 +8,7 @@
       323
     ],
     "bonus": null,
-    "points": 904,
+    "points": 1242,
     "safe": false,
     "scout": false,
     "tribe": "0",
@@ -17,34 +17,45 @@
     "resources": {}
   },
   "resources": {
-    "wood": 5103,
-    "stone": 4130,
-    "iron": 7893,
-    "pop": 482
+    "wood": 6695,
+    "stone": 5055,
+    "iron": 2598,
+    "pop": 543
   },
-  "required_resources": {},
+  "required_resources": {
+    "recruitment_light": {
+      "wood": 0,
+      "stone": 0,
+      "iron": 3000
+    }
+  },
   "available_troops": {
-    "axe": "1",
-    "spy": "48",
-    "light": "10"
+    "spear": "2",
+    "sword": "160",
+    "axe": "487",
+    "archer": "51",
+    "spy": "81",
+    "light": "7",
+    "ram": "15",
+    "knight": "1"
   },
   "buidling_levels": {
-    "main": 13,
-    "barracks": 9,
-    "stable": 8,
-    "garage": 0,
+    "main": 16,
+    "barracks": 11,
+    "stable": 11,
+    "garage": 6,
     "snob": 0,
-    "smith": 10,
+    "smith": 11,
     "place": 1,
     "statue": 1,
-    "market": 6,
+    "market": 11,
     "wood": 18,
     "stone": 18,
     "iron": 16,
-    "farm": 16,
-    "storage": 11,
+    "farm": 19,
+    "storage": 13,
     "hide": 1,
-    "wall": 11
+    "wall": 15
   },
   "building_queue": [
     "stone:1",
@@ -139,27 +150,27 @@
     "garage:5",
     "barracks:10",
     "storage:13",
+    "farm:18",
     "stable:10",
     "wall:15",
     "main:15",
     "market:10",
+    "farm:20",
     "garage:7",
     "barracks:15",
     "wood:22",
     "stone:22",
     "iron:20",
     "storage:15",
-    "farm:18",
+    "farm:22",
     "main:20",
     "smith:20",
     "snob:1",
-    "farm:20",
     "wall:20",
     "smith:15",
     "wood:22",
     "stone:22",
     "iron:20",
-    "farm:22",
     "storage:20",
     "stable:15",
     "farm:25",
@@ -178,20 +189,20 @@
     "barracks:25"
   ],
   "troops": {
-    "spear": 198,
-    "sword": 164,
-    "axe": 315,
-    "archer": 52,
-    "spy": 108,
-    "light": 157,
+    "spear": 356,
+    "sword": 160,
+    "axe": 580,
+    "archer": 51,
+    "spy": 150,
+    "light": 357,
     "marcher": 0,
     "heavy": 0,
-    "ram": 0,
+    "ram": 15,
     "catapult": 0,
     "knight": 1,
     "snob": 0,
     "militia": 0
   },
   "under_attack": false,
-  "last_run": 1717971855
+  "last_run": 1718136020
 }

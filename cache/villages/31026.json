@@ -1,6 +1,6 @@
 {
   "id": "31026",
-  "name": 0,
+  "name": "NEW CITY GAS",
   "location": [
     462,
     334
@@ -9,11 +9,11 @@
     "33% faster recruitment in the Stable",
     "bonus/stable.png"
   ],
-  "points": 88,
+  "points": 227,
   "safe": false,
   "scout": false,
-  "tribe": null,
-  "owner": "0",
+  "tribe": "43",
+  "owner": "849234488",
   "buildings": {},
   "resources": {}
 }

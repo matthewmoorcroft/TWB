@@ -1,6 +1,6 @@
 {
   "id": "31715",
-  "name": 0,
+  "name": "030. Jamesville",
   "location": [
     490,
     332
@@ -9,11 +9,11 @@
     "100% higher iron production",
     "bonus/iron.png"
   ],
-  "points": 125,
+  "points": 179,
   "safe": false,
   "scout": false,
-  "tribe": null,
-  "owner": "0",
+  "tribe": "43",
+  "owner": "7605794",
   "buildings": {},
   "resources": {}
 }

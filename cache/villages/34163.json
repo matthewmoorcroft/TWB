@@ -1,6 +1,6 @@
 {
   "id": "34163",
-  "name": 0,
+  "name": "030A. Gunnerville",
   "location": [
     478,
     325
@@ -9,11 +9,11 @@
     "100% higher clay production",
     "bonus/stone.png"
   ],
-  "points": 133,
+  "points": 123,
   "safe": false,
   "scout": false,
-  "tribe": null,
-  "owner": "0",
+  "tribe": "43",
+  "owner": "7605794",
   "buildings": {},
   "resources": {}
 }
