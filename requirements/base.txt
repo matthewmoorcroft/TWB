@@ -50,7 +50,7 @@ markupsafe==2.1.5
     # via
     #   jinja2
     #   werkzeug
-psutil==5.9.8
+psutil==6.0.0
     # via -r base.in
 pyquery==2.0.0
     # via -r base.in
